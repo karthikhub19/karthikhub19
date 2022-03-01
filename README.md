@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik Gunduboyana
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and Data Analyst
+- 💞️ I’m looking to collaborate on Data Science and Data Analyst Projects
 - 📫 How to reach me karthikgunduboyana29@gmail.com
 
 <!---
